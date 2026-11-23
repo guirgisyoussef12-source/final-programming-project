@@ -1,5 +1,3 @@
-// SET 112 - Course Project: Student Marks Manager
-// A menu-driven program that stores and analyses the marks of 10 students.
 
 #include <iostream>
 #include <string>
